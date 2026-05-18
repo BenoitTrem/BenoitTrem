@@ -11,16 +11,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Librairies
+### Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23FFFFFF.svg?style=for-the-badge&logo=next.js&logoColor=black)
-![Blade](https://img.shields.io/badge/Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & APIs
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Développement Mobile
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
 
 ### Bases de données
@@ -34,7 +40,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black)
 
-### Versioning & Collaboration
+### Versionnement & Collaboration
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -49,12 +55,12 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-%2307B5D4.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)
 
-### Jeux & 3D
+### Développement de jeux & 3D
 ![Unity](https://img.shields.io/badge/Unity-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23FFFFFF.svg?style=for-the-badge&logo=unrealengine&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### Infrastructure & Matériel
+### Infrastructure & Systèmes
 ![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
