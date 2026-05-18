@@ -14,6 +14,7 @@
 ### Frameworks & Librairies
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23FFFFFF.svg?style=for-the-badge&logo=next.js&logoColor=black)
+![Blade](https://img.shields.io/badge/Blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,8 +64,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BenoitTrem&theme=github-dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoitTrem&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+  <br/><br/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BenoitTrem&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 ---
