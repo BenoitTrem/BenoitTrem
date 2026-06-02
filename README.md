@@ -14,6 +14,7 @@
 ### Interfaces Web
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
