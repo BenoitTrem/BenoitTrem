@@ -1,4 +1,4 @@
-## 🛠️ Technologies & Outils
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="20" /> Technologies & Outils
 
 ### Langages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4c8.svg" width="20" /> Statistiques GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BenoitTrem&theme=github-dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
