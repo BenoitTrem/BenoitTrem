@@ -1,6 +1,8 @@
-## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e0.svg" width="20" /> Technologies & Outils
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=0&width=700&color=FFFFFF&repeat=true&lines=Benoit+Tremblay)](https://git.io/typing-svg)
 
-### Langages
+## Technologies & Tools
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -11,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
 
-### Interfaces Web
+### Web
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -26,29 +28,29 @@
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Développement Mobile
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
 
-### Bases de données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-### Cloud & Déploiement
+### Cloud & Deployment
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6.svg?style=for-the-badge&logo=msazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Versionnement & Collaboration
+### Version Control
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-%23179287.svg?style=for-the-badge&logo=gitkraken&logoColor=white)
 
-### IDEs & Éditeurs
+### IDEs & Editors
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -57,27 +59,27 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-%2300B0FF.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=black)
 
-### Développement de jeux
+### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### Infrastructure & Systèmes
+### Infrastructure & Systems
 ![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4c8.svg" width="20" /> Statistiques GitHub
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BenoitTrem&theme=github-dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=BenoitTrem&theme=github-dark&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&locale=en" />
   <br/><br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BenoitTrem&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BenoitTrem&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&locale=en" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BenoitTrem&color=58a6ff&style=flat-square&label=Visites+du+profil" />
+  <img src="https://komarev.com/ghpvc/?username=BenoitTrem&color=58a6ff&style=flat-square&label=Profile+Views" />
 </p>
