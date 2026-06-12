@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" align="left" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=0&width=700&color=FFFFFF&repeat=true&lines=Benoit+Tremblay)](https://git.io/typing-svg)
 
 ## Technologies & Tools
