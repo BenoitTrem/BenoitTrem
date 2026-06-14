@@ -60,6 +60,7 @@
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-%23A100FF.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-%2300B0FF.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Qt Designer](https://img.shields.io/badge/Qt_Designer-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
